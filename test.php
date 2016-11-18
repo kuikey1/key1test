@@ -1,3 +1,3 @@
 <?
-phpinfo(2);
+phpinfo(1);
 ?>

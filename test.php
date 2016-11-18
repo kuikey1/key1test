@@ -1,3 +1,5 @@
 <?
 phpinfo();
+// ’Ç‰Á
+addline();
 ?>
